@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Tuesday 08:46:19 AM]]></name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20170425084619">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_track">
+      <LineStyle>
+        <color>ff0000e6</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[Maple House - 112 Wilmslow Rd]]></name>
+        <description><![CDATA[0.5 km, 0:07]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.22599,53.45782 -2.22625,53.45775 -2.22654,53.45767 -2.22654,53.45751 -2.22641,53.45733 -2.22633,53.45724 -2.22599,53.45678 -2.22593,53.4567 -2.22587,53.45661 -2.22574,53.4564 -2.22567,53.45631 -2.22556,53.45613 -2.2255,53.45604 -2.22548,53.45602 -2.22542,53.45591 -2.22521,53.45551 -2.22507,53.45517 -2.22504,53.45508 -2.22494,53.45483 -2.22496,53.45481 -2.22496,53.45479 -2.22493,53.45473 -2.22489,53.45466 -2.22484,53.45458 -2.22481,53.45455 -2.22474,53.45446 -2.2247,53.4544 -2.22467,53.45438 -2.22463,53.45432 -2.22461,53.4543 -2.22444,53.45422 -2.22417,53.45397 -2.22391,53.45377 -2.22374,53.45363 -2.22366,53.45356 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[112 Wilmslow Rd - 45 Cromwell Range]]></name>
+        <description><![CDATA[0.8 km, 0:10]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.22366,53.45356 -2.22364,53.45353 -2.22354,53.45344 -2.22348,53.45337 -2.22341,53.45331 -2.22316,53.45309 -2.22303,53.45298 -2.22296,53.45294 -2.22296,53.45293 -2.22294,53.45291 -2.22289,53.45283 -2.22283,53.45274 -2.2227,53.45251 -2.22267,53.45245 -2.22245,53.45205 -2.22235,53.45189 -2.22227,53.45176 -2.22211,53.45147 -2.22209,53.4514 -2.22199,53.45126 -2.22182,53.45102 -2.22148,53.45067 -2.22146,53.45065 -2.22131,53.45047 -2.22108,53.45017 -2.22097,53.45005 -2.22079,53.44983 -2.2207,53.44973 -2.22065,53.44966 -2.22058,53.44956 -2.22053,53.44949 -2.22047,53.44939 -2.22043,53.44931 -2.22037,53.4492 -2.22037,53.44918 -2.22034,53.44913 -2.22019,53.44877 -2.2201,53.44857 -2.22009,53.44855 -2.21982,53.44807 -2.21974,53.44796 -2.21968,53.44789 -2.21961,53.44781 -2.2195,53.44772 -2.21894,53.44729 -2.21853,53.44748 -2.21843,53.44752 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

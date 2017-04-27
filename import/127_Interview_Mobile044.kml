@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Tuesday 07:08:12 AM]]></name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20170425070812">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_track">
+      <LineStyle>
+        <color>ff0000e6</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[6 Whitekirk Cl - 3 Skerry Cl]]></name>
+        <description><![CDATA[0.3 km, 0:03]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.22927,53.46883 -2.22918,53.46889 -2.22832,53.46943 -2.22808,53.46955 -2.22806,53.46956 -2.22805,53.46957 -2.22804,53.46957 -2.22803,53.46958 -2.22804,53.46959 -2.22807,53.46963 -2.2281,53.46964 -2.22848,53.46983 -2.22873,53.46995 -2.22876,53.46998 -2.22877,53.47001 -2.22878,53.47005 -2.22878,53.47008 -2.22876,53.47013 -2.22872,53.47017 -2.2287,53.47021 -2.2287,53.47024 -2.22872,53.47028 -2.22875,53.47029 -2.22881,53.47033 -2.22852,53.47052 -2.22836,53.47063 -2.22834,53.47065 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[3 Skerry Cl - Wadeson Rd]]></name>
+        <description><![CDATA[0.4 km, 0:04]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.22834,53.47065 -2.22829,53.4707 -2.22806,53.47089 -2.22773,53.4712 -2.22751,53.47111 -2.22706,53.47091 -2.22702,53.4709 -2.2264,53.47062 -2.22548,53.47016 -2.22516,53.46999 -2.22499,53.4699 -2.2246,53.46968 -2.22448,53.4696 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Tuesday 07:14:58 AM]]></name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20170425071458">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_track">
+      <LineStyle>
+        <color>ff0000e6</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[Crown & Anchor - 6 China Ln]]></name>
+        <description><![CDATA[0.1 km, 0:01]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.23236,53.48176 -2.23228,53.48179 -2.23221,53.48174 -2.23195,53.48144 -2.2319,53.48139 -2.23185,53.48133 -2.23176,53.4812 -2.23162,53.48102 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[6 China Ln - 70 Dale St]]></name>
+        <description><![CDATA[0.1 km, 0:02]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.23162,53.48102 -2.23169,53.48099 -2.23264,53.4807 -2.23274,53.48067 -2.23271,53.48063 -2.23261,53.48051 -2.23255,53.48044 -2.23252,53.4804 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[70 Dale St - 2 China Ln]]></name>
+        <description><![CDATA[0.1 km, 0:01]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.23252,53.4804 -2.23255,53.48044 -2.23261,53.48051 -2.23271,53.48063 -2.23274,53.48067 -2.23285,53.48064 -2.23332,53.4805 -2.23338,53.48049 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[2 China Ln - 50 Newton St]]></name>
+        <description><![CDATA[0.1 km, 0:02]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.23338,53.48049 -2.23373,53.48081 -2.23403,53.48107 -2.2338,53.48124 -2.23376,53.48127 -2.23354,53.48145 -2.23336,53.48158 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

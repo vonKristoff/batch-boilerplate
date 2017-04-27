@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Tuesday 08:49:43 AM]]></name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Snippet><![CDATA[created using <A href="http://www.gpsvisualizer.com/?ref=ge&time=20170425084943">GPS Visualizer</A>]]></Snippet>
+    <Style id="gv_track">
+      <LineStyle>
+        <color>ff0000e6</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Folder id="Tracks">
+      <name>Tracks</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark>
+        <name><![CDATA[5 Jubilee St - 13 Jubilee St]]></name>
+        <description><![CDATA[0.1 km, 0:01]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.29383,53.48651 -2.29354,53.48652 -2.29337,53.48652 -2.29302,53.48653 -2.29279,53.48653 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[13 Jubilee St - 53 Alpha St]]></name>
+        <description><![CDATA[0.3 km, 0:04]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.29279,53.48653 -2.29281,53.48704 -2.2931,53.48704 -2.29338,53.48703 -2.2937,53.48703 -2.29397,53.48703 -2.29398,53.48715 -2.29403,53.48785 -2.29403,53.48792 -2.29405,53.48823 -2.29405,53.48825 -2.29405,53.48826 -2.29403,53.48827 -2.29402,53.48828 -2.29401,53.48828 -2.29398,53.48828 -2.29363,53.48829 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[53 Alpha St - 4 Spring Gardens]]></name>
+        <description><![CDATA[0.2 km, 0:02]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.29363,53.48829 -2.29189,53.48831 -2.29185,53.48831 -2.29183,53.4883 -2.29181,53.4883 -2.2918,53.48829 -2.29178,53.48828 -2.29176,53.48826 -2.29175,53.48824 -2.29169,53.48795 -2.29193,53.48795 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[4 Spring Gardens - 19 Co-Operative St]]></name>
+        <description><![CDATA[0.2 km, 0:02]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.29193,53.48795 -2.29197,53.48795 -2.29223,53.48795 -2.29217,53.48705 -2.29215,53.48654 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[19 Co-Operative St - 101-103 Highfield Rd]]></name>
+        <description><![CDATA[0.1 km, 0:01]]></description>
+        <styleUrl>#gv_track</styleUrl>
+        <Style>
+          <LineStyle>
+            <color>ff0000e6</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <MultiGeometry>
+          <LineString>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-2.29215,53.48654 -2.29192,53.48654 -2.29181,53.48655 -2.29169,53.48655 -2.29138,53.48656 -2.29132,53.48644 -2.29129,53.48637 -2.29127,53.48632 </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

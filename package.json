@@ -1,0 +1,12 @@
+{
+  "name": "gpsv",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-path": "0.0.23",
+    "glob": "^7.1.1"
+  },
+  "scripts": {
+    "create:csv": "node ./gpsv"
+  }
+}
