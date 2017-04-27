@@ -8,33 +8,22 @@ function $promise(cb) {
     }
 }
 
-
-    // .then(batch.readName(function(file) {
-    //     console.log(file)
-    // }))
-    // .then(end)
-
-
-
-
-let start = new $promise((resolve, reject) => {
+let startSequence = $promise((resolve, reject) => {
     batch.collect().then(resolve)
+})
+let rename = new $promise((resolve, reject, files) => {
+    batch.rename(files, toThis).then(resolve)
 })
 
 function toThis(file) {
     return file + 'some creap'
 }
-
-let rename = new $promise((resolve, reject, files) => {
-    batch.rename(files, toThis).then(resolve)
-})
-
 function end(results) {
     console.log('finished', results)
 }
 
 
-start()
+startSequence()
     .then(rename)
     .then(end)
     .catch(console.log)
