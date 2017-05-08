@@ -4,7 +4,8 @@
   "license": "MIT",
   "devDependencies": {
     "fs-path": "0.0.23",
-    "glob": "^7.1.1"
+    "glob": "^7.1.1",
+    "sharp": "^0.17.3"
   },
   "scripts": {
     "create:csv": "node ./gpsv"
